@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(45, 46, 48);
+  color: white;
+}
+
+h1 {
+  margin: 1rem;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: whitesmoke;
+  display: flex;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 1rem;
+  position: relative;
+}
+.picture-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.picture {
+  height: clamp(200px, 40vw, 400px);
+  /* height: 300px; */
+  box-shadow: -2px 0px 15px 2px #131212;
+}
+
+.picture:hover {
+  outline: 1px solid red;
+  cursor: pointer;
+}
+
+.description:hover {
+  transform: scale(2.5);
+}
+
+.description {
+  color: black;
+  margin-top: 0.5rem;
+  font-size: 6px;
+  background-color: whitesmoke;
+  width: fit-content;
+  padding: 10px;
+  align-self: flex-end;
+}
+
+.description > * {
+  padding: 1px;
+}
+
+.information {
+  background-color: whitesmoke;
+  color: black;
+  width: clamp(200px, 15%, 300px);
+  height: 60%;
+  position: sticky;
+  top: 20%;
+  z-index: 1;
+  font-size: 1em;
+  border-radius: 3px;
+}
+
+.information > * {
+  padding: 0.8rem;
+}

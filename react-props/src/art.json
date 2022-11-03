@@ -1,0 +1,733 @@
+[
+  {
+    "objectID": 438848,
+    "isHighlight": false,
+    "accessionNumber": "2006.258",
+    "accessionYear": "2006",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP157664.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP157664.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164574,
+        "role": "Artist",
+        "name": "Eduard Gaertner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115624",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q880509",
+        "gender": ""
+      }
+    ],
+    "department": "European Paintings",
+    "objectName": "Painting",
+    "title": "Parochialstrasse in Berlin",
+    "culture": "",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Eduard Gaertner",
+    "artistDisplayBio": "German, Berlin 1801–1877 Zechlin",
+    "artistSuffix": "",
+    "artistAlphaSort": "Gaertner, Eduard",
+    "artistNationality": "German",
+    "artistBeginDate": "1801",
+    "artistEndDate": "1877",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q880509",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115624",
+    "objectDate": "1831",
+    "objectBeginDate": 1831,
+    "objectEndDate": 1831,
+    "medium": "Oil on canvas",
+    "dimensions": "16 x 11 in. (40.6 x 27.9 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": { "Height": 40.6401, "Width": 27.9401 }
+      }
+    ],
+    "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, and funds from various donors, by exchange, 2006",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-06-23T05:07:00.16Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/438848",
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913475",
+    "isTimelineWork": false,
+    "GalleryNumber": "807"
+  },
+  {
+    "objectID": 437854,
+    "isHighlight": true,
+    "accessionNumber": "96.29",
+    "accessionYear": "1896",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13360-001.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-13360-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162573,
+        "role": "Artist",
+        "name": "Joseph Mallord William Turner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+        "gender": ""
+      }
+    ],
+    "department": "European Paintings",
+    "objectName": "Painting",
+    "title": "Whalers",
+    "culture": "",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Joseph Mallord William Turner",
+    "artistDisplayBio": "British, London 1775–1851 London",
+    "artistSuffix": "",
+    "artistAlphaSort": "Turner, Joseph Mallord William",
+    "artistNationality": "British",
+    "artistBeginDate": "1775",
+    "artistEndDate": "1851",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+    "objectDate": "ca. 1845",
+    "objectBeginDate": 1840,
+    "objectEndDate": 1850,
+    "medium": "Oil on canvas",
+    "dimensions": "36 1/8 x 48 1/4 in. (91.8 x 122.6 cm)",
+    "measurements": [
+      {
+        "elementName": "Frame",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 127.0003,
+          "Width": 157.4803
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": { "Height": 91.8, "Width": 122.6 }
+      }
+    ],
+    "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1896",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-08-04T04:53:58.603Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/437854",
+    "tags": [
+      {
+        "term": "Whales",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250157",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1865281"
+      },
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904831",
+    "isTimelineWork": true,
+    "GalleryNumber": "808"
+  },
+  {
+    "objectID": 437852,
+    "isHighlight": false,
+    "accessionNumber": "89.15.9",
+    "accessionYear": "1889",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169566.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169566.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162573,
+        "role": "Artist",
+        "name": "Joseph Mallord William Turner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+        "gender": ""
+      }
+    ],
+    "department": "European Paintings",
+    "objectName": "Painting",
+    "title": "Saltash with the Water Ferry, Cornwall",
+    "culture": "",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Joseph Mallord William Turner",
+    "artistDisplayBio": "British, London 1775–1851 London",
+    "artistSuffix": "",
+    "artistAlphaSort": "Turner, Joseph Mallord William",
+    "artistNationality": "British",
+    "artistBeginDate": "1775",
+    "artistEndDate": "1851",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+    "objectDate": "1811",
+    "objectBeginDate": 1811,
+    "objectEndDate": 1811,
+    "medium": "Oil on canvas",
+    "dimensions": "35 3/8 x 47 1/2 in. (89.9 x 120.7 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": { "Height": 89.9, "Width": 120.7 }
+      },
+      {
+        "elementName": "Frame",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.78,
+          "Height": 134.6203,
+          "Width": 164.4653
+        }
+      }
+    ],
+    "creditLine": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-08-04T04:53:58.603Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/437852",
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904861",
+    "isTimelineWork": true,
+    "GalleryNumber": ""
+  },
+  {
+    "objectID": 436083,
+    "isHighlight": false,
+    "accessionNumber": "14.40.818",
+    "accessionYear": "1914",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19020-001.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19020-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161806,
+        "role": "Artist",
+        "name": "Charles-François Daubigny",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+        "gender": ""
+      }
+    ],
+    "department": "European Paintings",
+    "objectName": "Painting",
+    "title": "A River Landscape with Storks",
+    "culture": "",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Charles-François Daubigny",
+    "artistDisplayBio": "French, Paris 1817–1878 Paris",
+    "artistSuffix": "",
+    "artistAlphaSort": "Daubigny, Charles-François",
+    "artistNationality": "French",
+    "artistBeginDate": "1817",
+    "artistEndDate": "1878",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+    "objectDate": "1864",
+    "objectBeginDate": 1864,
+    "objectEndDate": 1864,
+    "medium": "Oil on wood",
+    "dimensions": "9 1/2 x 17 5/8 in. (24.1 x 44.8 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": { "Height": 24.1, "Width": 44.8 }
+      },
+      {
+        "elementName": "Frame",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335,
+          "Height": 52.0701,
+          "Width": 72.3901
+        }
+      }
+    ],
+    "creditLine": "Bequest of Benjamin Altman, 1913",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2021-12-02T04:36:26.17Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/436083",
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20168357",
+    "isTimelineWork": true,
+    "GalleryNumber": ""
+  },
+  {
+    "objectID": 436964,
+    "isHighlight": true,
+    "accessionNumber": "89.21.3",
+    "accessionYear": "1889",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP273977.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP273977.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-davis_letter.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162094,
+        "role": "Artist",
+        "name": "Edouard Manet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "gender": ""
+      }
+    ],
+    "department": "European Paintings",
+    "objectName": "Painting",
+    "title": "Young Lady in 1866",
+    "culture": "",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Edouard Manet",
+    "artistDisplayBio": "French, Paris 1832–1883 Paris",
+    "artistSuffix": "",
+    "artistAlphaSort": "Manet, Edouard",
+    "artistNationality": "French",
+    "artistBeginDate": "1832",
+    "artistEndDate": "1883",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+    "objectDate": "1866",
+    "objectBeginDate": 1866,
+    "objectEndDate": 1866,
+    "medium": "Oil on canvas",
+    "dimensions": "72 7/8 x 50 5/8 in. (185.1 x 128.6 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": { "Height": 185.1, "Width": 128.6 }
+      },
+      {
+        "elementName": "Frame",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 204.4704,
+          "Width": 173.3553
+        }
+      },
+      {
+        "elementName": "Frame",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.24003,
+          "Height": 226.06046,
+          "Width": 170.18034
+        }
+      }
+    ],
+    "creditLine": "Gift of Erwin Davis, 1889",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-10-20T04:55:06.267Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/436964",
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Parrots",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250076",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q15548309"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q942523",
+    "isTimelineWork": true,
+    "GalleryNumber": "810"
+  },
+  {
+    "objectID": 436935,
+    "isHighlight": false,
+    "accessionNumber": "1984.191",
+    "accessionYear": "1984",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18077-001.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18077-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162089,
+        "role": "Artist",
+        "name": "Alessandro Magnasco",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015104",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q516941",
+        "gender": ""
+      }
+    ],
+    "department": "European Paintings",
+    "objectName": "Painting",
+    "title": "The Tame Magpie",
+    "culture": "",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Alessandro Magnasco",
+    "artistDisplayBio": "Italian, Genoa 1667–1749 Genoa",
+    "artistSuffix": "",
+    "artistAlphaSort": "Magnasco, Alessandro",
+    "artistNationality": "Italian",
+    "artistBeginDate": "1667",
+    "artistEndDate": "1749",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q516941",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015104",
+    "objectDate": "ca. 1707–8",
+    "objectBeginDate": 1707,
+    "objectEndDate": 1708,
+    "medium": "Oil on canvas",
+    "dimensions": "25 x 29 1/2 in. (63.5 x 74.9 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": { "Height": 63.5, "Width": 74.9 }
+      }
+    ],
+    "creditLine": "Purchase, Katherine D. W. Glover Gift, 1984",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-06-23T05:07:00.16Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/436935",
+    "tags": [
+      {
+        "term": "Barrels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194514",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10289"
+      },
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912288",
+    "isTimelineWork": false,
+    "GalleryNumber": "622"
+  },
+  {
+    "objectID": 437310,
+    "isHighlight": false,
+    "accessionNumber": "60.174",
+    "accessionYear": "1960",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21959-001.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-21959-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162257,
+        "role": "Artist",
+        "name": "Camille Pissarro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+        "gender": ""
+      }
+    ],
+    "department": "European Paintings",
+    "objectName": "Painting",
+    "title": "The Boulevard Montmartre on a Winter Morning",
+    "culture": "",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Camille Pissarro",
+    "artistDisplayBio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+    "artistSuffix": "",
+    "artistAlphaSort": "Pissarro, Camille",
+    "artistNationality": "French",
+    "artistBeginDate": "1830",
+    "artistEndDate": "1903",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+    "objectDate": "1897",
+    "objectBeginDate": 1897,
+    "objectEndDate": 1897,
+    "medium": "Oil on canvas",
+    "dimensions": "25 1/2 x 32 in. (64.8 x 81.3 cm)",
+    "measurements": [
+      {
+        "elementName": "Frame",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 88.9002,
+          "Width": 105.4102
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": { "Height": 64.8, "Width": 81.3 }
+      }
+    ],
+    "creditLine": "Gift of Katrin S. Vietor, in loving memory of Ernest G. Vietor, 1960",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2022-03-09T05:08:40.073Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/437310",
+    "tags": [
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      },
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Roads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      },
+      {
+        "term": "Carriages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185335",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235356"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18616822",
+    "isTimelineWork": false,
+    "GalleryNumber": "820"
+  }
+]
